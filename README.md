@@ -7,7 +7,9 @@
 
 #### Course Description
 
-A common mode for understanding artificial intelligence systems, from popular fiction to textbooks in computer science, has been the metaphor of an agent that perceives, forms beliefs about, and intervenes in the world. In the past year, some scholars have instead framed large pretrained language and vision models as _cultural technologies_ (Gopnik; Farrell and Shalizi, 2023). Other researchers have pointed out that the builders of large AI models have taken on some curatorial tasks and should learn from archival practice (Jo and Gebru, 2020).
+A common mode for understanding artificial intelligence systems, from popular fiction to textbooks in computer science, has been the metaphor of an agent that perceives, forms beliefs about, and intervenes in the world. In the past year, some scholars have instead framed large pretrained language and vision models as _cultural technologies_ (Gopnik; Farrell and Shalizi, 2023). Other researchers have pointed out that the builders of large AI models must taken on some curatorial tasks in order to be successful and should learn from archival practice (Jo and Gebru, 2020).
+
+In this seminar, we will read and discuss papers addressing large language and vision models as tools to investigate human language, history, and culture; papers analyzing and auditing corpus creation for model training; and papers exploring and mitigating biases and gaps in available data.  Students will take turns presenting and leading discussion of papers along with the relevant background material. All students will write short reviews of the papers we read and work on writing research papers on a topic of their choice.
 
 #### Prerequisites
 
