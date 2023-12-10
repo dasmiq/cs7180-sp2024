@@ -19,4 +19,4 @@ There are no official prerequisites; however, it is expected that students have 
 
 Each week, we will read about two papers on a common theme. The papers could be tied together by methodology—e.g., model or inference method—or by subject matter.
 
-A list of the first few sets of papers is forthcoming. Further readingas will be added by input from seminar participants.
+A list of the first few sets of papers is forthcoming. Further readings will be added by input from seminar participants.
