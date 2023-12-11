@@ -17,6 +17,27 @@ There are no official prerequisites; however, it is expected that students have 
 
 #### Syllabus
 
-Each week, we will read about two papers on a common theme. The papers could be tied together by methodology—e.g., model or inference method—or by subject matter.
+Each week, we will read about two papers on a common theme. The papers could be tied together by methodology&mdash;e.g., model or inference method&mdash;,by subject matter, or by media or archive type.
 
-A list of the first few sets of papers is forthcoming. Further readings will be added by input from seminar participants.
+A list of the first few sets of papers is forthcoming. Further readings will be added by input from seminar participants.  General topics include:
+
+* Computational models as archives
+* Archival documentation for models and datasets, &ldquo;collections as data&rdquo;
+* Text and Natural Language Processing
+  - NLP + Literary and Narrative archives
+  - NLP + Documentary archives
+* Vision
+  - OCR + Textual archives (e.g., manuscripts, typewritten records in libraries, government archives, catalogs repositories and so on)
+  - OCR + Visual Archives (e.g., textual data found in image records, be they maps, photographs, others)
+  - Image Recognition + Journalism and Photo-Archives (e.g., photography)
+  - Image Recognition + Art archives (e.g., digitized art collections, drawings, paintings and visual arts at large)
+  - Action Recognition + Audiovisual Archives (live action motion pictures, television and film archives)
+* Sound
+  - Speech Recognition + Sound and Audio Archives (focus on oral archives, oral history archives and radio archives with human recordings)
+  - Sound Classification + Sound and Audio Archives (focus on instrumental sound recordings, ambient noise and similar)
+* Generative Models: Abundance and Loss
+  - Critical Fabulation
+  - Text Generation + Textual Archives (focus on ML to resore corrupted version of ancient texts)
+  - Image Inpainting + Art Archives (focus on art restoration)
+  - Video Generation + Audiovisual Archives
+  - Sound Generation + Sound Archives
