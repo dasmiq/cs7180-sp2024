@@ -48,3 +48,13 @@ Readings scheduled so far are as follows:
 * January 8: The Sociology of Information. We'll talk about the structure and organization of the course. I'll introduce some of it's themes, drawing one these background readings.
   - Eun So Jo and Timnit Gebru. [Lessons from Archives: Strategies for Collecting Sociocultural Data in Machine Learning.](https://doi.org/10.1145/3351095.3372829) Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, ACM, 2020, pp. 306–16.
   - Part I of: Suzanne Briet. [_What Is Documentation?_](https://roday.pages.iu.edu/what%20is%20documentation.pdf). Translated by Ronald E. Day et al., Scarecrow Press, 2006. [Original text (1951)](http://martinetl.free.fr/suzannebriet/questcequeladocumentation/briet.pdf)
+* January 11: Archival and Historical Perspectives on AI
+  - Meera Desai, Abigail Jacobs, and Dallas Card. [An Archival Perspective on Pretraining Data](https://openreview.net/forum?id=9xhUufywBX). 2023.
+  - An example of documenting an LLM training set: Luca Soldaini. [AI2 Dolma: 3 Trillion Token Open Corpus for Language Model Pretraining](https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64). August 18, 2023.
+  - States, markets, and AI: Henry Farrell and Cosma Shalizi. [Shoggoths amonst us](https://crookedtimber.org/2023/07/03/shoggoths-amongst-us/). July 3, 2023.
+* January 15: MLK Holiday (no class)
+* January 18: Cultural Technologies
+  - Eunice Yiu, Eliza Kosoy, and Alison Gopnik. [Imitation versus Innovation: What Children Can Do That Large Language and Language-and-Vision Models Cannot (Yet)?](https://arxiv.org/abs/2305.07666). 2023.
+  - Chapter 2 of: Albert Lord. [_The Singer of Tales_](https://chs.harvard.edu/read/lord-albert-bates-the-singer-of-tales/). Harvard University Press, 2nd edition 2000, 1st edition 1960.
+* January 22: Cultural Evolution
+  - Levin Brinkmann et al. [Machine Culture](https://arxiv.org/pdf/2311.11388). _Nature Human Behaviour_, Nov. 2023, pp. 1–14.
