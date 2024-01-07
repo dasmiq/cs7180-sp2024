@@ -46,5 +46,6 @@ A list of the first few sets of papers is forthcoming. Further readings will be 
 Readings scheduled so far are as follows:
 
 * The Sociology of Information (8 January)
+  - We'll talk about the structure and organization of the course. I'll introduce some of it's themes, drawing one these background readings.
   - Eun So Jo and Timnit Gebru. [Lessons from Archives: Strategies for Collecting Sociocultural Data in Machine Learning.](https://doi.org/10.1145/3351095.3372829) Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, ACM, 2020, pp. 306–16.
   - Part I of: Suzanne Briet. [_What Is Documentation? English Translation of the Classic French Text_](https://roday.pages.iu.edu/what%20is%20documentation.pdf). Translated by Ronald E. Day et al., Scarecrow Press, 2006. [Original text](http://martinetl.free.fr/suzannebriet/questcequeladocumentation/briet.pdf)
