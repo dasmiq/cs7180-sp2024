@@ -58,3 +58,5 @@ Readings scheduled so far are as follows:
   - Chapter 2 of: Albert Lord. [_The Singer of Tales_](https://chs.harvard.edu/read/lord-albert-bates-the-singer-of-tales/). Harvard University Press, 2nd edition 2000, 1st edition 1960.
 * January 22: Cultural Evolution
   - Levin Brinkmann et al. [Machine Culture](https://arxiv.org/pdf/2311.11388). _Nature Human Behaviour_, Nov. 2023, pp. 1–14.
+  - Alberto Acerbi and Joseph M. Stubbersfield. [Large Language Models Show Human-like Content Biases in Transmission Chain Experiments.](https://doi.org/10.1073/pnas.2313790120) _Proceedings of the National Academy of Sciences_, vol. 120, no. 44, Oct. 2023, p. e2313790120.
+
