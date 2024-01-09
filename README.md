@@ -45,7 +45,7 @@ A list of the first few sets of papers is forthcoming. Further readings will be 
 
 Readings scheduled so far are as follows:
 
-* January 8: Prolegomena: The Sociology of Information. We'll talk about the structure and organization of the course. I'll introduce some of it's themes, drawing one these background readings.
+* January 8: Prolegomena: The Sociology of Information. We'll talk about the structure and organization of the course. We'll introduce some of its themes, drawing on these background readings.
   - Generating and processing information: Part I of: Suzanne Briet. [_What Is Documentation?_](https://roday.pages.iu.edu/what%20is%20documentation.pdf). Translated by Ronald E. Day et al., Scarecrow Press, 2006. [Original text (1951)](http://martinetl.free.fr/suzannebriet/questcequeladocumentation/briet.pdf)
   - States, markets, and AI: Henry Farrell and Cosma Shalizi. [Shoggoths amonst us](https://crookedtimber.org/2023/07/03/shoggoths-amongst-us/). July 3, 2023.
 * January 11: Archival Perspectives on AI
