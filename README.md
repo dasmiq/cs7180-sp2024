@@ -63,8 +63,8 @@ Readings scheduled so far are as follows:
   - Kent K. Chang, Mackenzie Cramer, Sandeep Soni, and David Bamman. [Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4](https://aclanthology.org/2023.emnlp-main.453/). In _EMNLP_ 2023. [Christopher]
   - Lyra D'Souza and David Mimno. [The Chatbot and the Canon: Poetry Memorization in LLMs](https://ceur-ws.org/Vol-3558/paper5712.pdf). In _CHR_ 2023. [Shijia]
 * January 29: Data Archaeology
-  - Bonnie Mak. [Archaeology of a Digitization](https://doi.org/10.1002/asi.23061). _Journal of the Association for Information Science and Technology_, 65(8), Aug. 2014, pp. 1515–26.
-  - Benjamin Lee et al. [The Newspaper Navigator Dataset: Extracting And Analyzing Visual Content from 16 Million Historic Newspaper Pages in Chronicling America](http://arxiv.org/abs/2005.01583). arXiv:2005.01583 May 2020.
+  - Bonnie Mak. [Archaeology of a Digitization](https://doi.org/10.1002/asi.23061). _Journal of the Association for Information Science and Technology_, 65(8), Aug. 2014, pp. 1515–26. [Giulia]
+  - Benjamin Lee et al. [The Newspaper Navigator Dataset: Extracting And Analyzing Visual Content from 16 Million Historic Newspaper Pages in Chronicling America](http://arxiv.org/abs/2005.01583). arXiv:2005.01583 May 2020. [Luna]
 
 * February 1
 * February 5: Discuss paper ideas
