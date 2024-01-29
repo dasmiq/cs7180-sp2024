@@ -71,10 +71,12 @@ Readings scheduled so far are as follows:
 * January 29: Data Archaeology
   - Bonnie Mak. [Archaeology of a Digitization](https://doi.org/10.1002/asi.23061). _Journal of the Association for Information Science and Technology_, 65(8), Aug. 2014, pp. 1515–26. [Giulia]
   - Benjamin Lee et al. [The Newspaper Navigator Dataset: Extracting And Analyzing Visual Content from 16 Million Historic Newspaper Pages in Chronicling America](http://arxiv.org/abs/2005.01583). arXiv:2005.01583 May 2020. [Luna]
+  - See also: Lee, Benjamin. [Compounded Mediation: A Data Archaeology of the Newspaper Navigator Dataset](https://www.digitalhumanities.org/dhq/vol/15/4/000578/000578.html). _Digital Humanities Quarterly_, vol. 015, no. 4, Dec. 2021.
+
 
 * February 1: Privacy and Secrecy
-  - Jie Huang, Hanyin Shao, and Kevin Chen-Chuan Chang. [Are Large Pre-Trained Language Models Leaking Your Personal Information?](https://aclanthology.org/2022.findings-emnlp.148.pdf). In _Findings of EMNLP_, 2022.
-  - Renato Rocha Souza, Flavio Codeco Coelho, Rohan Shah, and Matthew Connelly. [Using Artificial Intelligence to Identify State Secrets](https://arxiv.org/abs/1611.00356). arXiv:1611.00356 November 2016.
+  - Jie Huang, Hanyin Shao, and Kevin Chen-Chuan Chang. [Are Large Pre-Trained Language Models Leaking Your Personal Information?](https://aclanthology.org/2022.findings-emnlp.148.pdf). In _Findings of EMNLP_, 2022. [Jaydeep]
+  - Renato Rocha Souza, Flavio Codeco Coelho, Rohan Shah, and Matthew Connelly. [Using Artificial Intelligence to Identify State Secrets](https://arxiv.org/abs/1611.00356). arXiv:1611.00356 November 2016. [David]
   - See also: [America's Most Redacted](http://www.history-lab.org/declassificationengine/americas-most-redacted)
 
 * February 5: Discuss paper ideas
