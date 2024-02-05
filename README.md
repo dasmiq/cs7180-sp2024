@@ -82,12 +82,12 @@ Readings scheduled so far are as follows:
 * February 5: Discuss paper ideas
 
 * February 8: The flight to quality
-  - Suchin Gururangan, Dallas Card, Sarah K. Dreier, Emily K. Gade, Leroy Z. Wang, Zeyu Wang, Luke Zettlemoyer, and Noah A. Smith. [Whose Language Counts as High Quality? Measuring Language Ideologies in Text Data Selection](https://doi.org/10.48550/arXiv.2201.10474). arXiv:2201.10474. January 2022.
-  - Li Lucy, Suchin Gururangan, Luca Soldaini1, Emma Strubell1, David Bamman, Lauren Klein, and Jesse Dodge. [AboutMe: Using Self-Descriptions in Webpages to Document the Effects of English Pretraining Data Filters](https://doi.org/10.48550/arXiv.2401.06408). arXiv:2401.06408, January 2024.
+  - Suchin Gururangan, Dallas Card, Sarah K. Dreier, Emily K. Gade, Leroy Z. Wang, Zeyu Wang, Luke Zettlemoyer, and Noah A. Smith. [Whose Language Counts as High Quality? Measuring Language Ideologies in Text Data Selection](https://doi.org/10.48550/arXiv.2201.10474). arXiv:2201.10474. January 2022. [Sheridan]
+  - Li Lucy, Suchin Gururangan, Luca Soldaini1, Emma Strubell1, David Bamman, Lauren Klein, and Jesse Dodge. [AboutMe: Using Self-Descriptions in Webpages to Document the Effects of English Pretraining Data Filters](https://doi.org/10.48550/arXiv.2401.06408). arXiv:2401.06408, January 2024. [Christopher]
 
 * February 12: Textual Restoration
-  - Shruti Rijhwani, Daisy Rosenblum, Antonios Anastasopoulos, and Graham Neubig. [Lexically Aware Semi-Supervised Learning for OCR Post-Correction](http://arxiv.org/abs/2111.02622). arXiv:2111.02622 [Cs], Nov. 2021.
-  - Nikolai Vogler, Jonathan Parkes Allen, Matthew Thomas Miller, Taylor Berg-Kirkpatrick. [Lacuna Reconstruction: Self-Supervised Pre-Training for Low-Resource Historical Document Transcription](https://doi.org/10.18653/v1/2022.findings-naacl.15). Findings of NAACL, pp. 206–16, 2022.
+  - Shruti Rijhwani, Daisy Rosenblum, Antonios Anastasopoulos, and Graham Neubig. [Lexically Aware Semi-Supervised Learning for OCR Post-Correction](http://arxiv.org/abs/2111.02622). arXiv:2111.02622 [Cs], Nov. 2021. [David]
+  - Nikolai Vogler, Jonathan Parkes Allen, Matthew Thomas Miller, Taylor Berg-Kirkpatrick. [Lacuna Reconstruction: Self-Supervised Pre-Training for Low-Resource Historical Document Transcription](https://doi.org/10.18653/v1/2022.findings-naacl.15). Findings of NAACL, pp. 206–16, 2022. [Jaydeep]
 
 * February 15
 
