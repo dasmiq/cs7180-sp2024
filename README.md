@@ -89,14 +89,16 @@ Readings scheduled so far are as follows:
   - Shruti Rijhwani, Daisy Rosenblum, Antonios Anastasopoulos, and Graham Neubig. [Lexically Aware Semi-Supervised Learning for OCR Post-Correction](http://arxiv.org/abs/2111.02622). arXiv:2111.02622 [Cs], Nov. 2021. [David]
   - Nikolai Vogler, Jonathan Parkes Allen, Matthew Thomas Miller, Taylor Berg-Kirkpatrick. [Lacuna Reconstruction: Self-Supervised Pre-Training for Low-Resource Historical Document Transcription](https://doi.org/10.18653/v1/2022.findings-naacl.15). Findings of NAACL, pp. 206–16, 2022. [Jaydeep]
 
-* February 15
+* February 15: Auditing Image Datasets
+  - Abeba Birhane, Vinay Prabhu, Sang Hau, Vishnu Naresh Boddeti, Alexandra Sasha Luccioni. [Into the LAIONs Den: Investigating Hate in Multimodal Datasets](https://doi.org/10.48550/arXiv.2311.03449). arXiv:2311.03449, 6 Nov. 2023.
+  - Ali Shirali and Moritz Hardt. [What Makes ImageNet Look Unlike LAION?](https://doi.org/10.48550/arXiv.2306.15769) arXiv:2306.15769, 27 June 2023.
 
-* February 19
-  - Milad Nasr, Nicholas Carlini, Jonathan Hayase, Matthew Jagielski, A. Feder Cooper, Daphne Ippolito1, Christopher A. Choquette-Choo, Eric Wallace, Florian Tramèr, Katherine Lee. [Scalable Extraction of Training Data from (Production) Language Models](http://arxiv.org/abs/2311.17035). arXiv:2311.17035, Nov. 2023.
+* February 19: Presidents Day holiday (no class)
 
-* February 22
+* February 22: Image and Video Restoration
 
 * February 26
+  - Milad Nasr, Nicholas Carlini, Jonathan Hayase, Matthew Jagielski, A. Feder Cooper, Daphne Ippolito, Christopher A. Choquette-Choo, Eric Wallace, Florian Tramèr, Katherine Lee. [Scalable Extraction of Training Data from (Production) Language Models](http://arxiv.org/abs/2311.17035). arXiv:2311.17035, Nov. 2023.
 
 * February 29
 
@@ -119,10 +121,14 @@ Readings scheduled so far are as follows:
 * April 1
 
 * April 4
+  - Ecological sampling of MSS
 
 * April 8
+  - Critical Fabulation
 
 * April 11
+  - Andreas. Agents
+  - Bibliothekism
 
 * April 15
 
