@@ -96,10 +96,9 @@ Readings scheduled so far are as follows:
 * February 19: Presidents Day holiday (no class)
 
 * February 22: Image and Video Restoration
-  - 
+  - Raphaela Heil and Fredrik Wahlberg. [Restoration of Archival Images Using Neural
+Networks](https://ceur-ws.org/Vol-3232/paper06.pdf). In _Digital Humanities in the Nordic and Baltic Countries Conference (DHNB)_, 2022.
   - Lorenzo Agnolucci, Leonardo Galteri, Marco Bertini, and Alberto Del Bimbo. [Reference-Based Restoration of Digitized Analog Videotapes](http://arxiv.org/abs/2310.14926). arXiv:2310.14926, 3 Nov. 2023.
-
-* February 26
   - Milad Nasr, Nicholas Carlini, Jonathan Hayase, Matthew Jagielski, A. Feder Cooper, Daphne Ippolito, Christopher A. Choquette-Choo, Eric Wallace, Florian Tramèr, Katherine Lee. [Scalable Extraction of Training Data from (Production) Language Models](http://arxiv.org/abs/2311.17035). arXiv:2311.17035, Nov. 2023.
 
 * February 29
