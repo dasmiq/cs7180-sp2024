@@ -100,7 +100,9 @@ Readings scheduled so far are as follows:
 Networks](https://ceur-ws.org/Vol-3232/paper06.pdf). In _Digital Humanities in the Nordic and Baltic Countries Conference (DHNB)_, 2022.
   - Lorenzo Agnolucci, Leonardo Galteri, Marco Bertini, and Alberto Del Bimbo. [Reference-Based Restoration of Digitized Analog Videotapes](http://arxiv.org/abs/2310.14926). arXiv:2310.14926, 3 Nov. 2023.
 
-* February 26: Data Exfiltration
+* February 26: Googling for Data
+  - Nicholas Carlini, Jamie Hayes, Milad Nasr, Matthew Jagielski, Vikash Sehwag, Florian Tramèr, Borja Balle, Daphne Ippolito, and Eric Wallace. [Extracting Training Data from Diffusion Models
+](https://arxiv.org/abs/2301.13188). arXiv:2301.13188, 30 Jan. 2023.
   - Milad Nasr, Nicholas Carlini, Jonathan Hayase, Matthew Jagielski, A. Feder Cooper, Daphne Ippolito, Christopher A. Choquette-Choo, Eric Wallace, Florian Tramèr, Katherine Lee. [Scalable Extraction of Training Data from (Production) Language Models](http://arxiv.org/abs/2311.17035). arXiv:2311.17035, Nov. 2023.
 
 * February 29
