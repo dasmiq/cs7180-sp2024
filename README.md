@@ -105,7 +105,9 @@ Networks](https://ceur-ws.org/Vol-3232/paper06.pdf). In _Digital Humanities in t
 ](https://arxiv.org/abs/2301.13188). arXiv:2301.13188, 30 Jan. 2023. [Sheridan]
   - Milad Nasr, Nicholas Carlini, Jonathan Hayase, Matthew Jagielski, A. Feder Cooper, Daphne Ippolito, Christopher A. Choquette-Choo, Eric Wallace, Florian Tramèr, Katherine Lee. [Scalable Extraction of Training Data from (Production) Language Models](http://arxiv.org/abs/2311.17035). arXiv:2311.17035, Nov. 2023. [Jaydeep]
 
-* February 29
+* February 29: Sounds and Symbols
+  - Anne-Sophie Ghyselen, Anne Breitbarth, Melissa Farasyn, Jacques Van Keymeulen, and Arjan van Hessen. [Clearing the Transcription Hurdle in Dialect Corpus Building: The Corpus of Southern Dutch Dialects as Case Study](https://www.frontiersin.org/articles/10.3389/frai.2020.00010). _Frontiers in Artificial Intelligence_ 3, 2020.
+  - Martijn Bartelds, Wietse de Vries, Faraz Sanal, Caitlin Richter, Mark Liberman, and Martijn Wieling. [Neural Representations for Modeling Variation in Speech]( https://doi.org/10.1016/j.wocn.2022.101137). _Journal of Phonetics_ 92 (May): 101137, 2022.
 
 * March 4: Spring break (no class)
 
