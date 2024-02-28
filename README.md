@@ -98,7 +98,7 @@ Readings scheduled so far are as follows:
 * February 22: Image and Video Restoration
   - Raphaela Heil and Fredrik Wahlberg. [Restoration of Archival Images Using Neural
 Networks](https://ceur-ws.org/Vol-3232/paper06.pdf). In _Digital Humanities in the Nordic and Baltic Countries Conference (DHNB)_, 2022. [David]
-  - Lorenzo Agnolucci, Leonardo Galteri, Marco Bertini, and Alberto Del Bimbo. [Reference-Based Restoration of Digitized Analog Videotapes](http://arxiv.org/abs/2310.14926). arXiv:2310.14926, 3 Nov. 2023. [Christopher]
+  - Lorenzo Agnolucci, Leonardo Galteri, Marco Bertini, and Alberto Del Bimbo. [Reference-Based Restoration of Digitized Analog Videotapes](http://arxiv.org/abs/2310.14926). arXiv:2310.14926, 3 Nov. 2023. [Chris]
 
 * February 26: Googling for Data
   - Nicholas Carlini, Jamie Hayes, Milad Nasr, Matthew Jagielski, Vikash Sehwag, Florian Tramèr, Borja Balle, Daphne Ippolito, and Eric Wallace. [Extracting Training Data from Diffusion Models
@@ -106,14 +106,14 @@ Networks](https://ceur-ws.org/Vol-3232/paper06.pdf). In _Digital Humanities in t
   - Milad Nasr, Nicholas Carlini, Jonathan Hayase, Matthew Jagielski, A. Feder Cooper, Daphne Ippolito, Christopher A. Choquette-Choo, Eric Wallace, Florian Tramèr, Katherine Lee. [Scalable Extraction of Training Data from (Production) Language Models](http://arxiv.org/abs/2311.17035). arXiv:2311.17035, Nov. 2023. [Jaydeep]
 
 * February 29: Sounds and Symbols
-  - Anne-Sophie Ghyselen, Anne Breitbarth, Melissa Farasyn, Jacques Van Keymeulen, and Arjan van Hessen. [Clearing the Transcription Hurdle in Dialect Corpus Building: The Corpus of Southern Dutch Dialects as Case Study](https://www.frontiersin.org/articles/10.3389/frai.2020.00010). _Frontiers in Artificial Intelligence_ 3, 2020.
-  - Martijn Bartelds, Wietse de Vries, Faraz Sanal, Caitlin Richter, Mark Liberman, and Martijn Wieling. [Neural Representations for Modeling Variation in Speech]( https://doi.org/10.1016/j.wocn.2022.101137). _Journal of Phonetics_ 92 (May): 101137, 2022.
+  - Anne-Sophie Ghyselen, Anne Breitbarth, Melissa Farasyn, Jacques Van Keymeulen, and Arjan van Hessen. [Clearing the Transcription Hurdle in Dialect Corpus Building: The Corpus of Southern Dutch Dialects as Case Study](https://www.frontiersin.org/articles/10.3389/frai.2020.00010). _Frontiers in Artificial Intelligence_ 3, 2020. [Chris]
+  - Martijn Bartelds, Wietse de Vries, Faraz Sanal, Caitlin Richter, Mark Liberman, and Martijn Wieling. [Neural Representations for Modeling Variation in Speech]( https://doi.org/10.1016/j.wocn.2022.101137). _Journal of Phonetics_ 92 (May): 101137, 2022. [Shijia]
 
 * March 4: Spring break (no class)
 
 * March 7: Spring break (no class)
 
-* March 11: Draft project outlines
+* March 11: Draft project outlines (no class)
 
 * March 14: Present project outlines
 
