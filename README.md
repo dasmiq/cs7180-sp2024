@@ -118,24 +118,24 @@ Networks](https://ceur-ws.org/Vol-3232/paper06.pdf). In _Digital Humanities in t
 * March 14: Present project outlines
 
 * March 18: Causal Employment
-  - Egami, Naoki, Christian J. Fong, Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart. [How to Make Causal Inferences Using Texts](https://doi.org/10.1126/sciadv.abg2652). _Science Advances_, October 2022.
-  - Field, Anjalie, Doron Kliger, Shuly Wintner, Jennifer Pan, Dan Jurafsky, and Yulia Tsvetkov. [Framing and Agenda-Setting in Russian News: A Computational Analysis of Intricate Political Strategies](https://doi.org/10.18653/v1/D18-1393). In _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing_, 3570–80, 2018.
+  - Egami, Naoki, Christian J. Fong, Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart. [How to Make Causal Inferences Using Texts](https://doi.org/10.1126/sciadv.abg2652). _Science Advances_, October 2022. [Shijia]
+  - Field, Anjalie, Doron Kliger, Shuly Wintner, Jennifer Pan, Dan Jurafsky, and Yulia Tsvetkov. [Framing and Agenda-Setting in Russian News: A Computational Analysis of Intricate Political Strategies](https://doi.org/10.18653/v1/D18-1393). In _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing_, 3570–80, 2018. [Chris]
 
 * March 21: Imaging Bias
   - Wang, Angelina, Alexander Liu, Ryan Zhang, Anat Kleiman, Leslie Kim, Dora Zhao, Iroha Shirai, Arvind Narayanan, and Olga Russakovsky. [REVISE: A Tool for Measuring and Mitigating Bias in Visual Datasets](https://doi.org/10.48550/arXiv.2004.07999). arXiv, 2021.
   - Tang, Ruixiang, Mengnan Du, Yuening Li, Zirui Liu, Na Zou, and Xia Hu. [Mitigating Gender Bias in Captioning Systems](https://doi.org/10.48550/arXiv.2006.08315). arXiv, 2021.
 
 * March 25: Memorizing and Forgetting
-  - Eldan, Ronen, and Mark Russinovich. [Who’s Harry Potter? Approximate Unlearning in LLMs](https://doi.org/10.48550/arXiv.2310.02238). arXiv 2310.02238, Oct. 2023.
+  - Eldan, Ronen, and Mark Russinovich. [Who’s Harry Potter? Approximate Unlearning in LLMs](https://doi.org/10.48550/arXiv.2310.02238). arXiv 2310.02238, Oct. 2023. [Jaydeep]
 
 * March 28: The Ecology of Manuscript Culture
-  - Kestemont, Mike, Folgert Karsdorp, Elisabeth De Bruijn, Matthew Driscoll, Katarzyna A. Kapitan, Pádraig Ó Macháin, Daniel Sawyer, Remco Sleiderink, and Anne Chao. [Forgotten Books: The Application of Unseen Species Models to the Survival of Culture](https://doi.org/10.1126/science.abl7655). _Science_ 375 (6582): 765–69. 2022.
+  - Kestemont, Mike, Folgert Karsdorp, Elisabeth De Bruijn, Matthew Driscoll, Katarzyna A. Kapitan, Pádraig Ó Macháin, Daniel Sawyer, Remco Sleiderink, and Anne Chao. [Forgotten Books: The Application of Unseen Species Models to the Survival of Culture](https://doi.org/10.1126/science.abl7655). _Science_ 375 (6582): 765–69, 2022.
   - Camps, Jean-Baptiste, and Julien Randon-Furling. [Lost Manuscripts and Extinct Texts: A Dynamic Model of Cultural Transmission.](https://ceur-ws.org/Vol-3290/long_paper3261.pdf) In _Computational Humanities Research_, 2023.
 
 * April 1
 
 * April 4
-  - Colavizza, Giovanni, Tobias Blanke, Charles Jeurgens, and Julia Noordegraaf. [Archives and AI: An Overview of Current Debates and Future Perspectives](https://doi.org/10.1145/3479010). _Journal on Computing and Cultural Heritage_ 15 (1): 1–15. 2022.
+  - Colavizza, Giovanni, Tobias Blanke, Charles Jeurgens, and Julia Noordegraaf. [Archives and AI: An Overview of Current Debates and Future Perspectives](https://doi.org/10.1145/3479010). _Journal on Computing and Cultural Heritage_ 15 (1): 1–15. 2022. [Giulia]
 
 * April 8
   - Critical Fabulation
