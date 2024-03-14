@@ -127,6 +127,7 @@ Networks](https://ceur-ws.org/Vol-3232/paper06.pdf). In _Digital Humanities in t
 
 * March 25: Memorizing and Forgetting
   - Eldan, Ronen, and Mark Russinovich. [Who’s Harry Potter? Approximate Unlearning in LLMs](https://doi.org/10.48550/arXiv.2310.02238). arXiv 2310.02238, Oct. 2023. [Jaydeep]
+  - Gandikota, Rohit, Joanna Materzynska, Jaden Fiotto-Kaufman, and David Bau. [Erasing Concepts from Diffusion Models](http://arxiv.org/abs/2303.07345). arXiv, 2023. [Sheridan]
 
 * March 28: The Ecology of Manuscript Culture
   - Kestemont, Mike, Folgert Karsdorp, Elisabeth De Bruijn, Matthew Driscoll, Katarzyna A. Kapitan, Pádraig Ó Macháin, Daniel Sawyer, Remco Sleiderink, and Anne Chao. [Forgotten Books: The Application of Unseen Species Models to the Survival of Culture](https://doi.org/10.1126/science.abl7655). _Science_ 375 (6582): 765–69, 2022.
