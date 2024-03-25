@@ -122,8 +122,8 @@ Networks](https://ceur-ws.org/Vol-3232/paper06.pdf). In _Digital Humanities in t
   - Field, Anjalie, Doron Kliger, Shuly Wintner, Jennifer Pan, Dan Jurafsky, and Yulia Tsvetkov. [Framing and Agenda-Setting in Russian News: A Computational Analysis of Intricate Political Strategies](https://doi.org/10.18653/v1/D18-1393). In _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing_, 3570–80, 2018. [Chris]
 
 * March 21: Imaging Bias
-  - Wang, Angelina, Alexander Liu, Ryan Zhang, Anat Kleiman, Leslie Kim, Dora Zhao, Iroha Shirai, Arvind Narayanan, and Olga Russakovsky. [REVISE: A Tool for Measuring and Mitigating Bias in Visual Datasets](https://doi.org/10.48550/arXiv.2004.07999). In _ECCV_, 2020.
-  - Tang, Ruixiang, Mengnan Du, Yuening Li, Zirui Liu, Na Zou, and Xia Hu. [Mitigating Gender Bias in Captioning Systems](https://doi.org/10.48550/arXiv.2006.08315). In _WWW_, 2021.
+  - Wang, Angelina, Alexander Liu, Ryan Zhang, Anat Kleiman, Leslie Kim, Dora Zhao, Iroha Shirai, Arvind Narayanan, and Olga Russakovsky. [REVISE: A Tool for Measuring and Mitigating Bias in Visual Datasets](https://doi.org/10.48550/arXiv.2004.07999). In _ECCV_, 2020. [David]
+  - Tang, Ruixiang, Mengnan Du, Yuening Li, Zirui Liu, Na Zou, and Xia Hu. [Mitigating Gender Bias in Captioning Systems](https://doi.org/10.48550/arXiv.2006.08315). In _WWW_, 2021. [David]
 
 * March 25: Memorizing and Forgetting
   - Eldan, Ronen, and Mark Russinovich. [Who’s Harry Potter? Approximate Unlearning in LLMs](https://doi.org/10.48550/arXiv.2310.02238). arXiv 2310.02238, Oct. 2023. [Jaydeep]
@@ -133,15 +133,15 @@ Networks](https://ceur-ws.org/Vol-3232/paper06.pdf). In _Digital Humanities in t
   - Kestemont, Mike, Folgert Karsdorp, Elisabeth De Bruijn, Matthew Driscoll, Katarzyna A. Kapitan, Pádraig Ó Macháin, Daniel Sawyer, Remco Sleiderink, and Anne Chao. [Forgotten Books: The Application of Unseen Species Models to the Survival of Culture](https://doi.org/10.1126/science.abl7655). _Science_ 375 (6582): 765–69, 2022.
   - Camps, Jean-Baptiste, and Julien Randon-Furling. [Lost Manuscripts and Extinct Texts: A Dynamic Model of Cultural Transmission.](https://ceur-ws.org/Vol-3290/long_paper3261.pdf) In _Computational Humanities Research_, 2023.
 
-* April 1
+* April 1: Gaps and Errors
+  - Hopkins, Daniel J., and Gary King. [A Method of Automated Nonparametric Content Analysis for Social Science](https://doi.org/10.1111/j.1540-5907.2009.00428.x). _American Journal of Political Science_ 54 (1): 229–47, 2010. [Chris]
+  - Egami, Naoki, Musashi Hinck, Brandon M. Stewart, and Hanying Wei. [Using Imperfect Surrogates for Downstream Inference: Design-Based Supervised Learning for Social Science Applications of Large Language Models](https://doi.org/10.48550/arXiv.2306.04746). arXiv, Oct. 2023. [David]
+
+* April 4: Cui Bono?
   - Colavizza, Giovanni, Tobias Blanke, Charles Jeurgens, and Julia Noordegraaf. [Archives and AI: An Overview of Current Debates and Future Perspectives](https://doi.org/10.1145/3479010). _Journal on Computing and Cultural Heritage_ 15 (1): 1–15. 2022. [Giulia]
-  - Atari, Mohammad, Mona J. Xue, Peter S. Park, Damián Blasi, and Joseph Henrich. 2023. [Which Humans?](https://doi.org/10.31234/osf.io/5b26t) OSF preprint, Sept. 2023.
+  - Atari, Mohammad, Mona J. Xue, Peter S. Park, Damián Blasi, and Joseph Henrich. 2023. [Which Humans?](https://doi.org/10.31234/osf.io/5b26t) OSF preprint, Sept. 2023. [Sheridan]
 
-* April 4
-  - Hopkins, Daniel J., and Gary King. [A Method of Automated Nonparametric Content Analysis for Social Science](https://doi.org/10.1111/j.1540-5907.2009.00428.x). _American Journal of Political Science_ 54 (1): 229–47, 2010.
-  - Egami, Naoki, Musashi Hinck, Brandon M. Stewart, and Hanying Wei. [Using Imperfect Surrogates for Downstream Inference: Design-Based Supervised Learning for Social Science Applications of Large Language Models](https://doi.org/10.48550/arXiv.2306.04746). arXiv, Oct. 2023.
-
-* April 8
+* April 8: Critical Fabulation
   - Saidiya Hartman. [Venus in Two Acts](https://muse.jhu.edu/article/241115). _Small Axe_ 12 (2): 1–14, 2008.
   - Nina Begus. [Experimental Narratives: A Comparison of Human Crowdsourced Storytelling and AI Storytelling](https://doi.org/10.48550/arXiv.2310.12902). arXiv, 2023.
 
