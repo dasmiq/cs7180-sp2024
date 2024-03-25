@@ -130,8 +130,8 @@ Networks](https://ceur-ws.org/Vol-3232/paper06.pdf). In _Digital Humanities in t
   - Gandikota, Rohit, Joanna Materzynska, Jaden Fiotto-Kaufman, and David Bau. [Erasing Concepts from Diffusion Models](http://arxiv.org/abs/2303.07345). arXiv, 2023. [Sheridan]
 
 * March 28: The Ecology of Manuscript Culture
-  - Kestemont, Mike, Folgert Karsdorp, Elisabeth De Bruijn, Matthew Driscoll, Katarzyna A. Kapitan, Pádraig Ó Macháin, Daniel Sawyer, Remco Sleiderink, and Anne Chao. [Forgotten Books: The Application of Unseen Species Models to the Survival of Culture](https://doi.org/10.1126/science.abl7655). _Science_ 375 (6582): 765–69, 2022.
-  - Camps, Jean-Baptiste, and Julien Randon-Furling. [Lost Manuscripts and Extinct Texts: A Dynamic Model of Cultural Transmission.](https://ceur-ws.org/Vol-3290/long_paper3261.pdf) In _Computational Humanities Research_, 2023.
+  - Kestemont, Mike, Folgert Karsdorp, Elisabeth De Bruijn, Matthew Driscoll, Katarzyna A. Kapitan, Pádraig Ó Macháin, Daniel Sawyer, Remco Sleiderink, and Anne Chao. [Forgotten Books: The Application of Unseen Species Models to the Survival of Culture](https://doi.org/10.1126/science.abl7655). _Science_ 375 (6582): 765–69, 2022. NB main paper and supplementary materials. [Jaydeep]
+  - Camps, Jean-Baptiste, and Julien Randon-Furling. [Lost Manuscripts and Extinct Texts: A Dynamic Model of Cultural Transmission.](https://ceur-ws.org/Vol-3290/long_paper3261.pdf) In _Computational Humanities Research_, 2023. [Shijia]
 
 * April 1: Gaps and Errors
   - Hopkins, Daniel J., and Gary King. [A Method of Automated Nonparametric Content Analysis for Social Science](https://doi.org/10.1111/j.1540-5907.2009.00428.x). _American Journal of Political Science_ 54 (1): 229–47, 2010. [Chris]
