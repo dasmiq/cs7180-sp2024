@@ -135,7 +135,7 @@ Networks](https://ceur-ws.org/Vol-3232/paper06.pdf). In _Digital Humanities in t
 
 * April 1: Gaps and Errors
   - Hopkins, Daniel J., and Gary King. [A Method of Automated Nonparametric Content Analysis for Social Science](https://doi.org/10.1111/j.1540-5907.2009.00428.x). _American Journal of Political Science_ 54 (1): 229–47, 2010. [Chris]
-  - Egami, Naoki, Musashi Hinck, Brandon M. Stewart, and Hanying Wei. [Using Imperfect Surrogates for Downstream Inference: Design-Based Supervised Learning for Social Science Applications of Large Language Models](https://doi.org/10.48550/arXiv.2306.04746). arXiv, Oct. 2023. [David]
+  - Egami, Naoki, Musashi Hinck, Brandon M. Stewart, and Hanying Wei. [Using Imperfect Surrogates for Downstream Inference: Design-Based Supervised Learning for Social Science Applications of Large Language Models](https://doi.org/10.48550/arXiv.2306.04746). In _NeurIPS_, 2023. [David]
 
 * April 4: Critical Fabulation
   - Saidiya Hartman. [Venus in Two Acts](https://muse.jhu.edu/article/241115). _Small Axe_ 12 (2): 1–14, 2008.
