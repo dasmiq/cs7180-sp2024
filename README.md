@@ -150,8 +150,8 @@ Networks](https://ceur-ws.org/Vol-3232/paper06.pdf). In _Digital Humanities in t
 * April 15: Patriots Day holiday (no class)
 
 * April 18: Meta-Models
-  - Jacob Andreas. [Language Models as Agent Models](https://doi.org/10.48550/arXiv.2212.01681). arXiv, Dec. 2022.
-  - Harvey Lederman and Kyle Mahowald. [Are Language Models More Like Libraries or Like Librarians? Bibliotechnism, the Novel Reference Problem, and the Attitudes of LLMs](https://doi.org/10.48550/arXiv.2401.04854). arXiv, Feb. 2024.
+  - Jacob Andreas. [Language Models as Agent Models](https://doi.org/10.48550/arXiv.2212.01681). arXiv, Dec. 2022. [Jaydeep]
+  - Harvey Lederman and Kyle Mahowald. [Are Language Models More Like Libraries or Like Librarians? Bibliotechnism, the Novel Reference Problem, and the Attitudes of LLMs](https://doi.org/10.48550/arXiv.2401.04854). arXiv, Feb. 2024. [Shijia]
 
 * April 22: Present projects
 
