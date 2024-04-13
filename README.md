@@ -65,7 +65,7 @@ Readings scheduled so far are as follows:
   - Alberto Acerbi and Joseph M. Stubbersfield. [Large Language Models Show Human-like Content Biases in Transmission Chain Experiments.](https://doi.org/10.1073/pnas.2313790120) _Proceedings of the National Academy of Sciences_, vol. 120, no. 44, Oct. 2023, p. e2313790120. [Sheridan]
 
 * January 25: Head Canons
-  - Kent K. Chang, Mackenzie Cramer, Sandeep Soni, and David Bamman. [Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4](https://aclanthology.org/2023.emnlp-main.453/). In _EMNLP_ 2023. [Christopher]
+  - Kent K. Chang, Mackenzie Cramer, Sandeep Soni, and David Bamman. [Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4](https://aclanthology.org/2023.emnlp-main.453/). In _EMNLP_ 2023. [Chris]
   - Lyra D'Souza and David Mimno. [The Chatbot and the Canon: Poetry Memorization in LLMs](https://ceur-ws.org/Vol-3558/paper5712.pdf). In _CHR_ 2023. [Shijia]
 
 * January 29: Data Archaeology
@@ -83,7 +83,7 @@ Readings scheduled so far are as follows:
 
 * February 8: The flight to quality
   - Suchin Gururangan, Dallas Card, Sarah K. Dreier, Emily K. Gade, Leroy Z. Wang, Zeyu Wang, Luke Zettlemoyer, and Noah A. Smith. [Whose Language Counts as High Quality? Measuring Language Ideologies in Text Data Selection](https://doi.org/10.48550/arXiv.2201.10474). arXiv:2201.10474. January 2022. [Sheridan]
-  - Li Lucy, Suchin Gururangan, Luca Soldaini1, Emma Strubell1, David Bamman, Lauren Klein, and Jesse Dodge. [AboutMe: Using Self-Descriptions in Webpages to Document the Effects of English Pretraining Data Filters](https://doi.org/10.48550/arXiv.2401.06408). arXiv:2401.06408, January 2024. [Christopher]
+  - Li Lucy, Suchin Gururangan, Luca Soldaini1, Emma Strubell1, David Bamman, Lauren Klein, and Jesse Dodge. [AboutMe: Using Self-Descriptions in Webpages to Document the Effects of English Pretraining Data Filters](https://doi.org/10.48550/arXiv.2401.06408). arXiv:2401.06408, January 2024. [Chris]
 
 * February 12: Textual Restoration
   - Shruti Rijhwani, Daisy Rosenblum, Antonios Anastasopoulos, and Graham Neubig. [Lexically Aware Semi-Supervised Learning for OCR Post-Correction](http://arxiv.org/abs/2111.02622). arXiv:2111.02622 [Cs], Nov. 2021. [David]
