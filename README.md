@@ -50,7 +50,7 @@ Readings scheduled so far are as follows:
   - States, markets, and AI: Henry Farrell and Cosma Shalizi. [Shoggoths amonst us](https://crookedtimber.org/2023/07/03/shoggoths-amongst-us/). July 3, 2023.
 
 * January 11: Archival Perspectives on AI
-  - Eun So Jo and Timnit Gebru. [Lessons from Archives: Strategies for Collecting Sociocultural Data in Machine Learning.](https://doi.org/10.1145/3351095.3372829) Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, ACM, 2020, pp. 306–16. [Giulia]
+  - Eun Seo Jo and Timnit Gebru. [Lessons from Archives: Strategies for Collecting Sociocultural Data in Machine Learning.](https://doi.org/10.1145/3351095.3372829) Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, ACM, 2020, pp. 306–16. [Giulia]
   - Meera Desai, Abigail Jacobs, and Dallas Card. [An Archival Perspective on Pretraining Data](https://openreview.net/forum?id=9xhUufywBX). 2023. [Shijia]
   - An example of documenting an LLM training set: Luca Soldaini. [AI2 Dolma: 3 Trillion Token Open Corpus for Language Model Pretraining](https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64). August 18, 2023.
 
